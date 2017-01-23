@@ -4,6 +4,7 @@ import static org.junit.Assert.*;
 
 import java.util.List;
 
+import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -21,7 +22,7 @@ import com.programming4phone.accidents.collector.client.Accident;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment = WebEnvironment.RANDOM_PORT)
-public class AccidentTest {
+public class AccidentIntegrationTest {
 
 	@Value("${local.server.port}")   
 	int port;
@@ -29,9 +30,15 @@ public class AccidentTest {
 	@Autowired
 	private TestRestTemplate restTemplate;
 	
+	@Ignore
 	@Test
 	public void test() {
 
+		/*
+		 * This test is marked as @Ignore because it hits the live CMPD server. 
+		 * 
+		 * Uncomment the @Ignore annotation if you wish to test against the live CMPD server.
+		 */
 		ResponseEntity<List<Accident>> entity; 
 		List<Accident> accidents;
 		

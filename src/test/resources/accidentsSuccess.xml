@@ -1,0 +1,88 @@
+     <CMPDAccidentsResponse xmlns="http://maps.cmpd.org/">
+         <CMPDAccidentsResult>
+            <ACCIDENTS>
+               <EVENT_NO>R0122140500</EVENT_NO>
+               <DATETIME_ADD>2017-01-22T14:05:38</DATETIME_ADD>
+               <DIVISION>CENTRAL</DIVISION>
+               <ADDRESS>121 W TRADE ST</ADDRESS>
+               <EVENT_TYPE>AC-R/PD</EVENT_TYPE>
+               <EVENT_DESC>ACCIDENT IN ROADWAY-PROPERTY DAMAGE</EVENT_DESC>
+               <X_COORD>1449419</X_COORD>
+               <Y_COORD>542849</Y_COORD>
+               <LATITUDE>35.227529</LATITUDE>
+               <LONGITUDE>-80.843784</LONGITUDE>
+            </ACCIDENTS>
+            <ACCIDENTS>
+               <EVENT_NO>R0122135402</EVENT_NO>
+               <DATETIME_ADD>2017-01-22T13:54:26</DATETIME_ADD>
+               <DIVISION>HUNTERSVILLE PD</DIVISION>
+               <ADDRESS>MERCER DR &amp; DANTE AL</ADDRESS>
+               <EVENT_TYPE>VE-DIS/R</EVENT_TYPE>
+               <EVENT_DESC>VEHICLE DISABLED IN ROADWAY</EVENT_DESC>
+               <X_COORD>1433308</X_COORD>
+               <Y_COORD>608811</Y_COORD>
+               <LATITUDE>35.407901</LATITUDE>
+               <LONGITUDE>-80.901955</LONGITUDE>
+            </ACCIDENTS>
+            <ACCIDENTS>
+               <EVENT_NO>R0122134900</EVENT_NO>
+               <DATETIME_ADD>2017-01-22T13:49:12</DATETIME_ADD>
+               <DIVISION>EASTWAY</DIVISION>
+               <ADDRESS>CENTRAL AV &amp; N SHARON AMITY RD</ADDRESS>
+               <EVENT_TYPE>AC-R/PD</EVENT_TYPE>
+               <EVENT_DESC>ACCIDENT IN ROADWAY-PROPERTY DAMAGE</EVENT_DESC>
+               <X_COORD>1475174</X_COORD>
+               <Y_COORD>535953</Y_COORD>
+               <LATITUDE>35.209868</LATITUDE>
+               <LONGITUDE>-80.757146</LONGITUDE>
+            </ACCIDENTS>
+            <ACCIDENTS>
+               <EVENT_NO>R0122134502</EVENT_NO>
+               <DATETIME_ADD>2017-01-22T13:45:43</DATETIME_ADD>
+               <DIVISION>STEELE CREEK</DIVISION>
+               <ADDRESS>440.  TYVOLA RD</ADDRESS>
+               <EVENT_TYPE>AC-R/PD</EVENT_TYPE>
+               <EVENT_DESC>ACCIDENT IN ROADWAY-PROPERTY DAMAGE</EVENT_DESC>
+               <X_COORD>1436114</X_COORD>
+               <Y_COORD>519685</Y_COORD>
+               <LATITUDE>35.163206</LATITUDE>
+               <LONGITUDE>-80.886855</LONGITUDE>
+            </ACCIDENTS>
+            <ACCIDENTS>
+               <EVENT_NO>R0122133601</EVENT_NO>
+               <DATETIME_ADD>2017-01-22T13:36:25</DATETIME_ADD>
+               <DIVISION>NORTH</DIVISION>
+               <ADDRESS>2727  ALLEN RD S</ADDRESS>
+               <EVENT_TYPE>HR-R/PD</EVENT_TYPE>
+               <EVENT_DESC>HIT &amp; RUN-IN ROADWAY-PROPERTY DAMAGE</EVENT_DESC>
+               <X_COORD>1460629</X_COORD>
+               <Y_COORD>565003</Y_COORD>
+               <LATITUDE>35.288957</LATITUDE>
+               <LONGITUDE>-80.807603</LONGITUDE>
+            </ACCIDENTS>
+            <ACCIDENTS>
+               <EVENT_NO>R0122131300</EVENT_NO>
+               <DATETIME_ADD>2017-01-22T13:13:06</DATETIME_ADD>
+               <DIVISION>SOUTH</DIVISION>
+               <ADDRESS>10100  BALLANTYNE COMMONS PY</ADDRESS>
+               <EVENT_TYPE>AC-R/PD</EVENT_TYPE>
+               <EVENT_DESC>ACCIDENT IN ROADWAY-PROPERTY DAMAGE</EVENT_DESC>
+               <X_COORD>1446969</X_COORD>
+               <Y_COORD>480670</Y_COORD>
+               <LATITUDE>35.056584</LATITUDE>
+               <LONGITUDE>-80.848111</LONGITUDE>
+            </ACCIDENTS>
+            <ACCIDENTS>
+               <EVENT_NO>R0122130801</EVENT_NO>
+               <DATETIME_ADD>2017-01-22T13:08:16</DATETIME_ADD>
+               <DIVISION>PROVIDENCE</DIVISION>
+               <ADDRESS>E INDEPENDENCE BV &amp; EASTWAY DR</ADDRESS>
+               <EVENT_TYPE>HR-R/PD</EVENT_TYPE>
+               <EVENT_DESC>HIT &amp; RUN-IN ROADWAY-PROPERTY DAMAGE</EVENT_DESC>
+               <X_COORD>1466398</X_COORD>
+               <Y_COORD>533216</Y_COORD>
+               <LATITUDE>35.201918</LATITUDE>
+               <LONGITUDE>-80.786357</LONGITUDE>
+            </ACCIDENTS>
+         </CMPDAccidentsResult>
+      </CMPDAccidentsResponse>
