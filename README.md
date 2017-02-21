@@ -1,6 +1,6 @@
 # Charlotte Traffic Accidents Collector Web Service
 
-The primary purpose of this web service is to provide traffic accident information for the [Charlotte Traffic Accidents] (https://secure-hamlet-7600.herokuapp.com) Angular 2 application.
+The primary purpose of this web service is to provide traffic accident information for the [Charlotte Traffic Accidents] (http://www.programming4phone.com/accidents) Angular 2 application.
 
 Information is supplied directly from the Charlotte Mecklenburg Police Department (CMPD) by the [CMPDAccidents SOAP API] (http://maps.cmpd.org/datafeeds/gisservice.asmx?op=CMPDAccidents).
 
